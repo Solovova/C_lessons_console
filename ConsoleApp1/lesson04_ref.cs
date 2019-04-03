@@ -8,7 +8,7 @@ namespace ConsoleApp04
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.OutputEncoding = Encoding.Unicode;
             Console.InputEncoding = Encoding.Unicode;
